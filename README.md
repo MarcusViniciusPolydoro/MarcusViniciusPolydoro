@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning and submitting projects.
 - 🌱 I’m currently to program with a focus on JavaScript and CSS.
 - 💞️ I’m looking to collaborate on projects with an emphasis on learning.
-- 📫 How to reach me markinhopolydoro@Outlook.com
+- 📫 How to reach me marcuspolydoro@gmail.com
